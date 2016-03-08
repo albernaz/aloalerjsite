@@ -796,13 +796,12 @@ img.icone-voltar {
     .cabecalho-home {
         background: #172B53 !important;
     }
-
 }
 
 
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
+@media only screen and (min-width : 321px) and (max-width : 768px) {
     .alolerj-logo-home {
         height: 77px !important;
         margin-top: 10px !important;
