@@ -3,9 +3,9 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
 <script>
-    // Disable jQuery Mobile loading message
-    $.mobile.loading().hide();
-    $.mobile.loadingMessage = false;
+//    // Disable jQuery Mobile loading message
+//    $.mobile.loading().hide();
+//    $.mobile.loadingMessage = false;
 
     var isShowing = false;
 
@@ -160,14 +160,14 @@
             moveRight();
         });
 
-        $("#slider ul").swipeleft(function()
-        {
-            moveRight();
-        });
-
-        $("#slider ul").swiperight(function()
-        {
-            moveLeft();
-        });
+//        $("#slider ul").swipeleft(function()
+//        {
+//            moveRight();
+//        });
+//
+//        $("#slider ul").swiperight(function()
+//        {
+//            moveLeft();
+//        });
     });
 </script>

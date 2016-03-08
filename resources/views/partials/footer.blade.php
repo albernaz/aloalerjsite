@@ -1,7 +1,7 @@
 <!-- Footer -->
 
 
-<div class="visible-xs col-xs-12 visible-sm col-sm-12 text-center footer-mobile">
+<div class="visible-xs visible-sm col-xs-12 col-sm-12 text-center footer-mobile">
     <div class="tit-comissoes"> Comissões </div>
     <p><a href="/comissoes/defesadoconsumidor">Disque Defesa do Consumidor</a></p>
     <p><a href="/comissoes/meioambiente">Disque Denúncia Meio Ambiente</a></p>
@@ -22,7 +22,7 @@
 
 
 
-<div class="panel-group hidden-xs" id="accordion"  >
+<div class="panel-group hidden-xs hidden-sm" id="accordion"  >
     <div class="panel panel-default">
         <div class="container">
             <div class="panel-heading btn-group dropup">
