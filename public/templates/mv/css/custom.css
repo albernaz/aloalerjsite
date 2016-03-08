@@ -768,7 +768,10 @@ img.icone-voltar {
 }
 
 /* Custom, iPhone Retina */
-@media only screen and (max-width : 320px) {
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
     .footer-chat .col-xs-9 input#btn-input {
         font-size: 16px;
         padding: 5px;
