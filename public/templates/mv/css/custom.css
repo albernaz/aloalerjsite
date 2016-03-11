@@ -138,6 +138,8 @@ p {
     position: fixed;
     bottom: 0;
     width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .panel-default > .panel-heading {
@@ -524,6 +526,7 @@ img.logo-com-tel-dc {
 
 .footer-mobile a {
     color: #ffffff;
+    text-decoration: none;
 }
 
 /* Custom, iPhone Retina */
